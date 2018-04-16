@@ -21,3 +21,27 @@
 /yarn-error.log
 
 .byebug_history
+
+.framgia-ci-reports/*
+
+.drone.yml
+
+.framgia-ci-result.temp.yml
+
+.eslintignore
+
+.eslintrc.json
+
+.framgia-ci.yml
+
+.reek
+
+.rspec
+
+.rubocop.yml
+
+.rubocop_disabled.yml
+
+.rubocop_enabled.yml
+
+.scss-lint.yml
