@@ -4,7 +4,7 @@
 #
 # To use the locales, use `I18n.t`:
 #
-#     I18n.t 'hello'
+#     I18n. t 'hello'
 #
 # In views, this is aliased to just `t`:
 #
@@ -30,4 +30,9 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  # hello: "Hello world"
+  # title: "Ruby on Rails Tutorial Sample App"
+  static_pages:
+    about:
+      title: "Ruby on Rails Tutorial Sample App"
+

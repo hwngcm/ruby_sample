@@ -1,5 +1,7 @@
 {
   "name": "ruby_sample",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "i18n": "^0.8.3"
+  }
 }
