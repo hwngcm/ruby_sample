@@ -1,12 +1,6 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
-
   def hello
-    render html: "hello world!"
-  end
-
-  def set_locale
-    I18n.locale = params[:locale] || I18n.default_locale
+    render html: "hello, world!"
   end
 end
-
