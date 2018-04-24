@@ -50,5 +50,21 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
+group :framgia do
+  gem "autoprefixer-rails"
+  gem "brakeman", require: false
+  gem "bundler-audit"
+  gem "database_cleaner"
+  gem "factory_bot"
+  gem "guard-rspec", require: false
+  gem "jshint"
+  gem "railroady"
+  gem "rails_best_practices"
+  gem "reek"
+  gem "rubocop", require: false
+  gem "rubocop-checkstyle_formatter", require: false
+  gem "scss_lint", require: false
+  gem "scss_lint_reporter_checkstyle", require: false
+end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
