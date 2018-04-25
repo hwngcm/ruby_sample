@@ -25,7 +25,7 @@ RemoveTabCheck: { }
 RemoveTrailingWhitespaceCheck: { }
 # RemoveUnusedMethodsInControllersCheck: {
 #   except_methods: [
-#     "app/controllers", 
+#     StaticPagesController#home, 
 #   ]
 # }
 RemoveUnusedMethodsInHelpersCheck: { except_methods: [] }
