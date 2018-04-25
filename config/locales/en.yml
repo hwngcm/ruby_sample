@@ -39,3 +39,4 @@ en:
   define: "is a book and series to teach web development with"
   get_help: "Get help on the Ruby on Rails Tutorial at the"
   target: "To get help on this sample app, see the"
+  base: "Ruby on Rails Tutorial Sample App"
