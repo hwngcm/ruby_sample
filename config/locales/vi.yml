@@ -1,0 +1,10 @@
+vi:
+  hello: "Ứng dụng mẫu"
+  home: "Trang chủ"
+  help: "Trợ giúp"
+  about: "Về chúng tôi"
+  content: "Ruby on Rails tutorial"
+  intro: "Đây là trang chủ của"
+  define: "là 1 cuốn sách về phát triển web với"
+  get_help: "Trợ giúp về Ruby on Rails ở trang"
+  target: "Để tìm sự trợ giúp về ứng dụng mẫu, tìm ở"
