@@ -5,3 +5,5 @@ user:
     max_email: 255
   password:
     min_password: 6
+  gravatar_url:
+    size_ava: 80
