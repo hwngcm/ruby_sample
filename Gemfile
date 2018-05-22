@@ -11,6 +11,7 @@ gem "rails", "~> 5.1.6"
 gem "bootstrap-sass", "3.3.7"
 gem "rails-i18n", "~> 5.1"
 gem "config"
+gem "jquery-rails"
 # Use sqlite3 as the database for Active Record
 gem "sqlite3"
 # Use Puma as the app server
