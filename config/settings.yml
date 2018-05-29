@@ -7,3 +7,4 @@ user:
     min_password: 6
   gravatar_url:
     size_ava: 80
+    size_ava_fix: 50
