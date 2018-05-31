@@ -8,3 +8,7 @@ user:
   gravatar_url:
     size_ava: 80
     size_ava_fix: 50
+
+micropost:
+  content:
+    max_content: 140
